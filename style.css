@@ -1,0 +1,149 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+header .container{
+    background-color: yellow;
+    height: 100%;
+    justify-content: space-between;
+    display: flex;
+    width: 80%;
+    align-items: center;
+}
+ header nav ul li{
+    display: inline;
+    padding: 0 20px;
+    color: blue;
+    width: 80%;
+
+}
+.container{
+    margin: auto;
+    width: 80%;
+
+}
+header{
+    background: yellow;
+    height: 80px;
+}
+#heading h1{
+    color: blue;
+    font-style: italic;
+}
+.adv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: blue;
+    margin: 30px;
+    font-style: oblique;
+}
+nav{
+    color: blue;
+    font-style: italic;
+    padding-bottom: 0%;
+}
+.dv{
+    margin-top: 20px;
+    margin-left: 80px;
+    color: blue;
+}
+.dv p{
+    margin-top: 10px;
+}
+.vd{
+    margin-top: 20px;
+    margin-left: 80px;
+    color: blue;
+    padding-bottom: 30px;
+}
+.vd p{
+    margin-top: 10px;
+}
+nav .container{
+    width: 80%;
+}
+.imgcan{
+    width: 80%;
+}
+.imgcan img{
+    width: 100%;
+    margin-left: 90px;
+}
+.ev{
+    margin-top: 20px;
+    margin-left: 80px;
+    color: blue;
+    margin-bottom: 20px;
+}
+h5{
+    margin-bottom: 10px;
+}
+.imgcan1 img{
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.faf{
+    margin-top: 10px;
+    margin-left: 80px;
+    color: blue;
+    padding-bottom: 30px;
+}
+.yu h6{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 80px;
+    color: blue;
+    font-size: medium;
+}
+.wu{
+    margin-top: 10px;
+    margin-left: 80px;
+    color: blue;
+    padding-bottom: 30px;
+}
+.wu h6{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 80px;
+    color: blue;
+    font-size: medium;
+}
+#GV{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 0;
+    margin-left: 0;
+    background-color: black;
+}
+#GV h1{
+    color: orange;
+    padding-bottom: 10px;
+}
+#GV ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    text-decoration: none;
+}
+#GV ul li{
+    margin: 10px;
+}
+.Gw{
+    margin-left: 80px;
+}
+.vh p{
+    padding-bottom: 10px;
+    color: orange;
+    margin-right: 100px;
+}
+form .button_1{
+    color: orange;
+    
+}
+form{
+    
+}
